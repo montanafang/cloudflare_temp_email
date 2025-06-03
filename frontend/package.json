@@ -19,7 +19,7 @@
   "dependencies": {
     "@simplewebauthn/browser": "^10.0.0",
     "@unhead/vue": "^1.9.16",
-    "@vicons/material": "^0.12.0",
+    "@vicons/material": "^0.13.0",
     "@vueuse/core": "^10.11.1",
     "@wangeditor/editor": "^5.1.23",
     "@wangeditor/editor-for-vue": "^5.1.12",
